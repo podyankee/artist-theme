@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"opacify	opacify()"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"c",
+				"c	color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/kostya/Рабочий стол/Artists-Theme/package.json",
+			"settings":
+			{
+				"buffer_size": 300,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		},
+		{
+			"file": "/home/kostya/Рабочий стол/Artists-Theme/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kostya/Загрузки/rkpasia.github.io-master/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 337.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 327.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kostya/Рабочий стол/Artists-Theme",
+		"/home/kostya/Рабочий стол/Artists-Theme/_data",
+		"/home/kostya/Рабочий стол/Artists-Theme/_site",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css"
+	],
+	"file_history":
+	[
+		"/home/kostya/Рабочий стол/tenet.m3u",
+		"/home/kostya/Рабочий стол/Artists-Theme/_includes/work.html",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_about.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_work.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/node_modules/grunt/README.md",
+		"/home/kostya/Рабочий стол/Artists-Theme/Gruntfile.js",
+		"/media/kostya/Зарезервировано системой/Recovery/Logs/Reload.xml",
+		"/home/kostya/Рабочий стол/Gruntfile.js",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/assets/css/3-sections/_work.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/_data/layout.yml",
+		"/home/kostya/Рабочий стол/Artists-Theme/node_modules/grunt/package.json",
+		"/home/kostya/Рабочий стол/Artists-Theme/node_modules/grunt/lib/grunt.js",
+		"/home/kostya/Рабочий стол/Artists-Theme/grunt.js",
+		"/home/kostya/.cache/.fr-NY7c6U/scangearmp-mg2100series-1.80-1-rpm/install.sh",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/_includes/work.html",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/assets/css/3-sections/_about.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/all.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/_data/settings.yml",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/index.html",
+		"/home/kostya/Рабочий стол/Artists-Theme/index.html",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_-sections-dir.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/_includes/footer.html",
+		"/home/kostya/Рабочий стол/Artists-Theme/_includes/header.html",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/js/functions.js",
+		"/home/kostya/Рабочий стол/Artists-Theme/_includes/about.html",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_footer.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/2-base/_placeholders.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_header.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/_config.yml",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_contact.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/img/travitar.jpg",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/img/logo.svg",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_form.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/assets/css/3-sections/_footer.sass",
+		"/home/kostya/Рабочий стол/untitled.scss",
+		"/home/kostya/Рабочий стол/Artists-Theme/_includes/icons/logo.html",
+		"/home/kostya/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/kostya/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/kostya/.gem/specs/rubygems.org%80/quick/Marshal.4.8/jekyll-2.5.3.gemspec",
+		"/home/kostya/Рабочий стол/Artists-Theme/assets/css/3-sections/_-sections_dir.sass",
+		"/home/kostya/Рабочий стол/DevTips/_config.yml",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/_config.yml",
+		"/home/kostya/Рабочий стол/DevTips/_includes/header.html",
+		"/home/kostya/Рабочий стол/DevTips/_includes/footer.html",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/3-sections/_header.sass",
+		"/home/kostya/Рабочий стол/DevTips/index.html",
+		"/home/kostya/Рабочий стол/DevTips/_includes/icons/logo.html",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/3-sections/_footer.sass",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/1-tools/_-tools-dir.sass",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/1-tools/_placeholders.sass",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/3-sections/_-sections-dir.sass",
+		"/home/kostya/Рабочий стол/DevTips/_includes/icons/footer.html",
+		"/home/kostya/Рабочий стол/DevTips/assets/img/logo.svg",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/1-tools/_normalize.scss",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/all.sass",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/2-base/_base.sass",
+		"/home/kostya/Рабочий стол/DevTips/assets/css/2-base/_-base-dir.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/assets/css/2-base/_base.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/assets/css/all.sass",
+		"/home/kostya/Рабочий стол/DevTips/_site/assets/css/all.css",
+		"/home/kostya/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/kostya/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/kostya/Рабочий стол/DevTips/_site/assets/css/main.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/assets/css/3-sections/_header.sass",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/_data/layout.yml",
+		"/home/kostya/Рабочий стол/DevTips/_site/index.html",
+		"/home/kostya/Рабочий стол/portfolio/_config.yml",
+		"/home/kostya/Рабочий стол/portfolio/about.md",
+		"/home/kostya/Рабочий стол/DevTips/includes/header.html",
+		"/home/kostya/Рабочий стол/Artists-Theme-gh-pages/README.md"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section",
+			"%}\n",
+			"tumb",
+			"lockup",
+			"@import 'header'",
+			"logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"thumb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/kostya/Рабочий стол/Artists-Theme"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/kostya/Рабочий стол/Artists-Theme/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/kostya/Рабочий стол/Artists-Theme/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1324,
+								1324
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/kostya/Загрузки/rkpasia.github.io-master/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1521,
+								1521
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
