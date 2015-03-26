@@ -1,2 +1,2 @@
 
-<img src="/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg" alt="City In">
+<img src="assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg" alt="City In">

@@ -1,1 +1,1 @@
-<img src="/assets/img/work/proj-4/freshitup-JieyuXiong.jpg" alt="Freshitup">
+<img src="assets/img/work/proj-5/freshitup-JieyuXiong.jpg" alt="Freshitup">

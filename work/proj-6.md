@@ -1,1 +1,1 @@
-<img src="/assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg" alt="TimeLinePage">
+<img src="assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg" alt="TimeLinePage">

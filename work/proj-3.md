@@ -1,1 +1,1 @@
-<img src="/assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg" alt="CrispyIcons">
+<img src="assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg" alt="CrispyIcons">
